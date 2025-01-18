@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently studying Computer Science Engineering at Internation Institute of Information Technology, Hyderabad.
 - 🌱 I have good understanding of Data Structures and Algorithms 
-- 📫 How to reach me: rayaan.khan@students.iiit.ac.in
+- 📫 How to reach me: khan.rayaan258@gmail.com
 - 💡 I have good experience in Full Stack Development and MERN stack.
 - 😄 Pronouns: He/Him
 
